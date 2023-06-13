@@ -11,13 +11,21 @@
       ]
     },
     {
+      "name":"comment",
+       "param": {
+        "type": "value",
+        "count": "0+"
+      },
+      "order": [
+      ]
+    },
+    {
       "name": "figure",
       "param": {
         "type": "value",
         "count": "0+"
       },
       "order": [
-        "p"
       ]
     },
     {
@@ -31,13 +39,16 @@
       ]
     },
     {
+      "name": "equation"
+    },
+    {
       "name": "table",
       "param": {
         "type": "value",
         "count": "0+"
       },
       "order": [
-        "p"
+        "qqq"
       ]
     }
   ]

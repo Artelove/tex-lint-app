@@ -194,6 +194,16 @@
       ]
     },
     {
+      "name": "eqref",
+      "arg": {
+        "type": "phrase",
+        "count": "1"
+      },
+      "order": [
+        "a"
+      ]
+    },
+    {
       "name": "documentclass",
       "param": {
         "type": "value",
